@@ -3,6 +3,7 @@
 <h3 align="center">Сәлам</h3>
 
 - 📫 mail: **brichrlit@gmail.com**
+- [My Page](https://bbrain778.github.io/)
 <!-- ![唉呦不錯喔!](https://github.com/BBrain778/BBrain778/blob/main/nicelaaaa.png) -->
 
 ![Dancing 90s Computer GIF](https://media.giphy.com/media/uWv3uPfWOz088/giphy.gif)
